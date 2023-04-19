@@ -1,0 +1,16 @@
+git:
+  remote: git@github.com:jangcs/gs-vit_l_32.git
+dvc:
+  remote: gs://cr-model/gs-vit_l_32
+platform:
+  architecture: x86_64
+  os: linux
+  version: ''
+  device: cpu
+model:
+  name: gs-vit_l_32
+  tag: ''
+#labels : 
+#  label_key1: lavel_value1
+#  label_key2: lavel_value2
+#  resolution: 640x480(sample)
